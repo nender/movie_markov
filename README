@@ -1,5 +1,0 @@
-Needs movies.list from here: ftp://ftp.fu-berlin.de/pub/misc/movies/database/, remove the header text to stop the script from complaining.
-
-Run with python markov.py [optional seed word]. I put a ton of comments in the source and tried to make it understandable, check it out! Same technique should be pretty easily modified to work with other input data, too :) could be a fun project
-
-Anyways, enjoy!
